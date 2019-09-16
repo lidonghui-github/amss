@@ -1,0 +1,2 @@
+# amss
+init amss
